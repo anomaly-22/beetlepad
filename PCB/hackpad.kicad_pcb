@@ -9584,7 +9584,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "ISABELLE\n"
+	(gr_text "BEETLEPAD\n"
 		(at 90.298463 102.5525 0)
 		(layer "B.SilkS")
 		(uuid "9f62513a-b5d5-4c40-8ffb-ecb685ff62f1")
